@@ -1,0 +1,9 @@
+.vscode
+.vs
+bin
+obj
+*.db
+Host/wwwroot/client/assets/**/*
+
+InertiaCore
+node_modules
